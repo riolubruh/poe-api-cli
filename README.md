@@ -6,7 +6,7 @@ For more information and help, please visit [poe-api's documentation](https://gi
 
 ## Features
 
-- The `token` environment variable is required used in poe-api-cli. If the variable is not set, poe-api-cli will prompt you to input it.
+- The `token` environment variable is used in poe-api-cli. If the variable is not set, poe-api-cli will prompt you to input it.
 - Automatically fetches and prints the available bots and asks you to select which one you want to use.
 - Use the following commands in the "Enter prompt" field:
 
