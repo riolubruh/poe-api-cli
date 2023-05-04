@@ -18,7 +18,7 @@ For more information and help, please visit [poe-api's documentation](https://gi
 
 ![usage](https://user-images.githubusercontent.com/54255074/236327161-475d07c4-c654-4ef7-a360-268d2685590a.gif)
 
-To get started, I reccomend you visit [poe-api's documentation](https://github.com/ading2210/poe-api#finding-your-token) for getting your token. Once done, simply run the CLI tool.
+To get started, I recommend you visit [poe-api's documentation](https://github.com/ading2210/poe-api#finding-your-token) on how to get your token. Once done, simply run the CLI tool.
 
 You can also try out poe-api-cli on Repl.it.
 
