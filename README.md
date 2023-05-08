@@ -1,6 +1,6 @@
 # poe-api-cli
 
-<b>`poe-api-cli`</b> is an easy-to-use interface for [poe-api](https://github.com/ading2210/poe-api), a reverse-engineered API wrapper for Quora's Poe. With poe-api-cli, you can freely access OpenAI's ChatGPT, GPT-4, Antropic's Claude, and more.
+**`poe-api-cli`** is an easy-to-use interface for [poe-api](https://github.com/ading2210/poe-api), a reverse-engineered API wrapper for Quora's Poe. With poe-api-cli, you can freely access OpenAI's ChatGPT, GPT-4, Antropic's Claude, and more.
 
 For more information and help, please visit [poe-api's documentation](https://github.com/ading2210/poe-api#python-poe-api).
 
